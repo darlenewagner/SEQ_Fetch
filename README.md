@@ -1,9 +1,7 @@
-README
-======
+# Use Cases #
+### Retrieving SRR records and converting to paired-end fastq.gz files ###
 
-this is my new script!
+`python BatchFest_Python/fetchSRRandRename.py SRRandLabIDs.tsv --outDir project/reads/`
 
-It does
-* blah
-* blah2
+
 
